@@ -27,7 +27,7 @@
   },
   "style": {
     "default": {
-      "css": "https://example.com/calendar-styles.css"
+      "css": "calendar-styles.css"
     }
   },
   "components": {
